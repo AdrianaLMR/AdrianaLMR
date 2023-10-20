@@ -8,16 +8,16 @@
   <img align="center" alt="Adri-css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" alt="Adri-html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" alt="Adri-dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+  <img align="center" alt="git"  height="30" width="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a> 
  <img align="center" alt="Adri-golang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /> <!-- Adicione esta linha para o Golang -->
 </div>
 <div align="auto"><br>
   <a href="https://github.com/AdrianaLMR">
    <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianaLMR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>--> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianaLMR&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianalmr&show_icons=true&theme=dracula&locale=en&layout=compact" alt="adrianalmr"/>
 </div>
 <br>
 <p> :small_blue_diamond:<strong> Meio de contato:</strong> </p>
-
 <div><br> 
   <a href = "mailto:trevenlynk038@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adriana-machado-da-rosa-0451ab22a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
