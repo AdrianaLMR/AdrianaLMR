@@ -1,6 +1,6 @@
 <p> :small_blue_diamond:<strong>Cursando:</strong> Tecnologia em sistema para internet</p>
  
-<p> :small_blue_diamond:<strong>Tenho conhecimento nas linguagens:</strong> </p>
+<p> :small_blue_diamond:<strong>Habilidades:</strong> </p>
 </div><br>
 <div style="display: inline_block">
   <!--<img align="center" alt="Adri-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"--> 
