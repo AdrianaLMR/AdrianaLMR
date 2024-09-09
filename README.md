@@ -1,4 +1,14 @@
-<h2 align="left">Olá, bem-vindo ao meu perfil do GitHub! 👋<br><br>Eu sou Adriana Machado e estou empolgada para compartilhar meus projetos e contribuições com você!<br><br>Sobre Mim:<br><br>🧠 Apaixonada por: Desenvolvimento de software, tecnologias emergentes e inovação.<br><br>💼 Experiência em: Desenvolvimento de projetos pessoais em Back-End e Front-End.<br><br>📚 Atualmente estudando: APIs, bancos de dados e desenvolvimento de software.<br><br>Sinta-se à vontade para explorar meus projetos e, se tiver alguma dúvida ou sugestão, entre em contato!</h2>
+<h2 align="left">Olá, bem-vindo ao meu perfil do GitHub! 👋 </h2>
+  Eu sou Adriana Machado e estou empolgada para compartilhar meus projetos e contribuições com você!
+  
+  <h2>Sobre Mim</h2>
+  
+  🧠 Apaixonada por: Desenvolvimento de software, tecnologias emergentes e inovação.
+  
+  💼 Experiência em: Desenvolvimento de projetos pessoais em Back-End e Front-End.
+  
+  📚 Atualmente estudando: APIs, bancos de dados e desenvolvimento de software.
+ <h2  Sinta-se à vontade para explorar meus projetos e, se tiver alguma dúvida ou sugestão, entre em contato!</h2>
 
 ###
 
